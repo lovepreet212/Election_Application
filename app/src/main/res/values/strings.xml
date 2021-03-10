@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Election</string>
+    <string name="textview1">Candidate 1</string>
+    <string name="textview3">Candidate 2</string>
+    <string name="textview5">Candidate 3</string>
+    <string-array name="spinner">
+        <item>Select Candidate</item>
+        <item>Candidate 1</item>
+        <item>Candidate 2</item>
+        <item>Candidate 3</item>
+    </string-array>
+</resources>
